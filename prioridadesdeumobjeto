@@ -1,0 +1,19 @@
+let pessoas = {
+    nome: 'felipe eiliano',
+    idade: '25',
+    fromação: 'gestão da qualidade',
+    
+}
+
+
+let carros = {
+    marca:['ford' , 'fiat' , 'toyta'],
+    modelo: ['ka', 'uno' , 'corolla'],
+    ano:['2015', '2018', '2022'],
+}
+
+const produtos = {
+    Tipo: ['arroz'],
+    quantidade:['10'],
+    valor:[8,00]
+}
